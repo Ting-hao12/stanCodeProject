@@ -1,6 +1,7 @@
 """
 File: StepUp.py
-Name: TODO:
+Name:Ting-hao Chang 
+TODO:
 ------------------------
 This file shows Karel picking up 
 the beeper at Street 1 Avenue 2,
